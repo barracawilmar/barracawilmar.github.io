@@ -1,0 +1,20 @@
+.wrapper {
+	overflow-y: hidden	
+}
+
+.VueTables > .row {
+	margin: 0;
+}
+span.price {
+    font-size: 12pt;
+    font-weight: 600;
+    color: #3db572;
+    border: 1px solid #05f599;
+    padding: 5px 10px;
+    border-radius: 3px;
+    white-space:nowrap
+}
+
+.form-group.is-focused small.text-danger {
+	display:none
+}
